@@ -7,8 +7,6 @@ z
 Japp/src/main/java/com/picpay/desafio/android/presentation/MainViewModel.kt,a/7/a78ab56fe230adf8048ad7b69f10a3b13a2bc84d
 y
 Iapp/src/main/java/com/picpay/desafio/android/presentation/MainActivity.kt,b/6/b688cea13189c7133fca101ae6a5725da87d76bf
-‹
-[app/src/main/java/com/picpay/desafio/android/presentation/adapter/UserListItemViewHolder.kt,d/7/d732a3902a0212b87771636c4658b1fad3813da5
 ‰
 Yapp/src/main/java/com/picpay/desafio/android/presentation/adapter/UserListDiffCallback.kt,1/d/1d4e836f574ccdc05b0292246af01fcd9354801d
 „
@@ -19,8 +17,6 @@ Tapp/src/main/java/com/picpay/desafio/android/presentation/adapter/UserListAdapt
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 t
 Dapp/src/main/java/com/picpay/desafio/android/extensions/loadImage.kt,d/7/d786285ffaecdf45a41baaf3bbac10c8c2000729
-‘
-aapp/src/main/java/com/picpay/desafio/android/presentation/databinding/ImageViewBindingAdapters.kt,a/e/ae07f2a678375ad504870062925d80351f0e05ca
 t
 Dapp/src/main/java/com/picpay/desafio/android/database/AppDatabase.kt,e/c/ece542e753067f356932dcd42cb73ec5e91cb1e3
 u
@@ -41,8 +37,6 @@ Iapp/src/androidTest/java/com/picpay/desafio/android/MainActivityRobots.kt,3/4/
 Kapp/src/androidTest/java/com/picpay/desafio/android/RecyclerViewMatchers.kt,0/6/0620ce1428c14c4c2bd0103abd2633c1676ada08
 m
 =app/src/test/java/com/picpay/desafio/android/di/ModuleTest.kt,9/2/926d8201e0586115d0e419e7a506e8739459f99a
-x
-Happ/src/androidTest/java/com/picpay/desafio/android/MainnActivityTest.kt,0/4/049cbcb88406859701b62a88ebad41af52f49046
 m
 =app/src/main/java/com/picpay/desafio/android/MyApplication.kt,3/6/366607e1fa838897152abab7dae01cba90bdbca2
 |
@@ -57,3 +51,19 @@ p
 @app/src/main/java/com/picpay/desafio/android/di/NetworkModule.kt,9/d/9dbb09335b6971f9a51694a1122d87de0625d1b1
 ~
 Napp/src/test/java/com/picpay/desafio/android/presentation/MainViewModelTest.kt,6/4/64f1479a43bdc6965ec10639ac0ab91c08221ef8
+z
+Japp/src/main/java/com/picpay/desafio/android/domain/usecase/MainUseCase.kt,7/9/798d18f834bc48f44e0974566c90e4b9965270a2
+€
+Papp/src/main/java/com/picpay/desafio/android/domain/repository/MainRepository.kt,3/a/3a50ba02f2dc005b42bc6b58f0f3892bbc745347
+@
+local.properties,0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+>
+app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+Y
+)gradle/tools/dependencies/versions.gradle,c/4/c4d9d5acf87e4db8cfba332d679235d775f6d0b8
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
